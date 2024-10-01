@@ -43,13 +43,11 @@ pip install pygame numpy
 ## Contributing
 We welcome contributions to the project. Please feel free to submit bug fixes, improvements, and features via pull requests.
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes and push the branch.
-4. Submit a pull request.
+1. Creating an Issue: Before making any changes, create an issue explaining what you'd like to add or change and why
+2. Fork the repository.
+3. Create a new branch for your feature or bug fix.
+4. Commit your changes and push the branch.
+5. Submit a pull request.
 
 ## Raising an Issue
 If you encounter any bugs or would like to request a feature, please create an issue on the repository with detailed steps to reproduce or a description of the feature request.
-
-## License
-This project is licensed under the MIT License.
