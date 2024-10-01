@@ -30,7 +30,11 @@ pip install pygame numpy
 
 ## Usage
 
-1. Clone the repository and navigate to the project directory.
+1. Clone the repository and navigate to the project directory:
+   ```
+   git clone https://github.com/techcsispit/Sandtrix-Game
+   cd Sandtrix-Game
+   ```
 2. Install the dependencies:
    ```
    pip install pygame numpy
